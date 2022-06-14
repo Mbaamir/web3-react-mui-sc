@@ -3,6 +3,8 @@
 This project is configured to run Web 3 Apps with React 18 with Typescript, MUI with a styled components engine.
 Happy Hacking!
 
+## Still have to update webpack.config.js as specified in configuration help
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
