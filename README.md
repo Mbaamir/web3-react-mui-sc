@@ -1,7 +1,7 @@
 # CRA Template - React@18.1.0, Typescript, MUI, Styled Components, 
 
-This project is configured to run react 18 with Typescript, MUI with a styled components engine.
-Happy Hacking
+This project is configured to run Web 3 Apps with React 18 with Typescript, MUI with a styled components engine.
+Happy Hacking!
 
 # Getting Started with Create React App
 
